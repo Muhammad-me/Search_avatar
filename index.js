@@ -6,7 +6,3 @@ function Avatar(){
     avatar.src = url;
 }
 input.addEventListener("keyup", Avatar)
-
-
-
-
